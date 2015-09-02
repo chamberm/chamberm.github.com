@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Maxime Chamberland | Tutorials</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/styles.css" />
+	
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.roundabout-1.0.min.js"></script> 
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.roundabout-shapes-1.1.js"></script>
+	<script type="text/javascript">			
+		$(document).ready(function() { //Start up our Project Preview Carosuel
+			$('ul#folio_scroller').roundabout({
+				easing: 'easeOutInCirc',
+				shape: 'waterWheel',
+				duration: 600
+			});
+		});
+	</script>  
+	<!--[if IE 6]>
+	<script src="js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script>
+	  /* EXAMPLE */
+	  DD_belatedPNG.fix('.button');
+	  
+	  /* string argument can be any CSS selector */
+	  /* .png_bg example is unnecessary */
+	  /* change it to what suits you! */
+	</script>
+	<![endif]-->
+</head>
+
+<body>
+
+	<div id="wrapper" class="container_12 clearfix">
+
+		<!-- Text Logo -->
+		<h1 id="logo" class="grid_4">Fibernavigator</h1>
+		
+		<!-- Navigation Menu -->
+		<ul id="navigation" class="grid_8">
+			<li><a href="contact.html"><span class="meta">Curriculum vitae</span><br />About Me</a></li>
+			<li><a href="media.html"><span class="meta">Images & videos</span><br />Media</a></li>
+			<li><a href="teaching.html"><span class="meta">Teaching</span><br />IMN638</a></li>
+			<li><a href="research.html"><span class="meta">Publications</span><br />Research</a></li>
+			<li><a href="index.html"><span class="meta">Homepage</span><br />Home</a></li>
+		</ul>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+			
+		<!-- Catch Line and Link -->
+			<h2 class="grid_12 caption clearfix">Real-time resting-state fMRI tutorial</h2>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+		<center>
+		<p>For this tutorial, you will need to download this example <a href="downloads/fibernavigator-rsfMRI">dataset</a>. 
+		First, let's open the anatomical T1-weighted image. <br /> The scene should display something like this (tip: Hit the "S" key for a perfect superior view).</p>
+		<p><img alt="" src="images/tuto/open1.png" /><img alt="" width="30%" src="images/tuto/s2.png" /></p>
+
+		<p> Now, go to the rsfMRI networks panel (center of the screen) and hit the "Load resting-state" button. 
+		Select the provided rest-final dataset.</p>
+		<p><img alt="" src="images/tuto/panel3.png" /></p>
+		<p> So far, the main canvas still only displays the anatomical T1. Let's position a ROI in the PCC (click once on the
+		sagital plane from the top left 2D windows). Next, hit the box icon to create the ROI. </p>
+		<p><img alt="" src="images/tuto/2d4.png" /> <img alt="" src="images/tuto/box5.png" /></p>
+		<p>We are now ready to perform real-time rs-fMRI connectivity. Simply click the "start" button. Correlations should appear in the main canvas window.</p>
+		<p><img alt="" src="images/tuto/start6.png" /><img alt="" width="30%" src="images/tuto/3d7.png" /></p>
+		Feel free to drag the ROI around (hold right click) and explore the brain's connectivity. Once you are satisfied with the current view,</br >
+		you can export and save the desired network to a .nii file by hitting the "generate map" button.</p> 
+		<p><img alt="" src="images/tuto/map8.png" /></p>
+		<p>A new anatomy has been added to the list of current datasets. To put it on top of the T1, simply go back to the properties tab </br> by clicking on the navigation arrows (middle of the screen).
+		Move the network on top of the T1 and voilà!</p>
+		<p><img alt="" width="30%" src="images/tuto/map9.png" /></p>
+		</center>
+		
+		<!-- Client pickup line -->
+		<h2 class="grid_12 caption">Like this project? <a href="contact.html"><span>Get in touch!</span></a></h2>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+		
+		<!-- Footer -->
+		<p class="grid_12 footer clearfix">
+			<span class="float"><b>Maxime Chamberland</b> - Université de Sherbrooke</span>
+			<a class="float right" href="#">Back to top</a>
+		</p>
+		
+	</div><!--end wrapper-->
+
+</body>
+</html>
