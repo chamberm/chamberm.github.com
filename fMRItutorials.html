@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Maxime Chamberland | Fibernavigator</title>
+	<title>Maxime Chamberland | Tutorials</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	
 	<!-- Stylesheets -->
@@ -54,35 +54,29 @@
 		<div class="hr grid_12 clearfix">&nbsp;</div>
 			
 		<!-- Catch Line and Link -->
-			<h2 class="grid_12 caption clearfix">Visualization software</h2>
+			<h2 class="grid_12 caption clearfix">Real-time resting-state fMRI tutorial</h2>
 		
 		<div class="hr grid_12 clearfix">&nbsp;</div>
-		
-		<!-- Column 1 / Project Information -->
-		<div class="grid_4">
-		<a class="meta" href="https://github.com/chamberm/fibernavigator">github.com/chamberm/fibernavigator</a>
-		<h4 class="title">Fibernavigator</h4>
-		<div class="hr dotted clearfix">&nbsp;</div>
-			<p>This project is dedicated to the development of fast and versatile visualization of <strong>tractography</strong>, including effective selection of fibres, including surface texturing, real-time tractography and to the integration of streamline visualization with the display of diffusion MRI, functional MRI.</p>	
-			<p class="clearfix">
-				<a href="index.html" class="button float">&lt;&lt; Back to Homepage</a>
-				<a href="https://github.com/chamberm/fibernavigator" class="button float right">Project site</a>
-			</p>
-			<p><b>Tutorials</b></p>
-			<p class="clearfix">
-			    <a href="dMRItutorials.html" class="button float">++Real-time multi-peak tractography</a>
-				<a href="fMRItutorials.html" class="button float">++Real-time rsfMRI connectivity</a>
-			</p>
-		</div>
-		
-		<!-- Column 2 / Image Carosuel -->
-		<div id="folio_scroller_container" class="grid_8 cleafix">
-			<ul id="folio_scroller"> 
-					<li><span>Homepage</span><a href="https://github.com/chamberm/fibernavigator"><img alt="" src="images/600fiber.png" /></a></li> 
-			</ul> 
-		</div>
-		
-		<div class="hr grid_12 clearfix">&nbsp;</div>
+		<center>
+		<p>For this tutorial, you will need to download this example <a href="downloads/fibernavigator-rsfMRI.zip" style="color:red">dataset</a>. 
+		First, let's open the anatomical T1-weighted image. <br /> The scene should display something like this (tip: Hit the "S" key for a perfect superior view).</p>
+		<p><img alt="" src="images/tuto/open1.png" /><img alt="" width="30%" src="images/tuto/s2.png" /></p>
+
+		<p> Now, go to the rsfMRI networks panel (center of the screen) and hit the "Load resting-state" button. 
+		Select the provided rest-final dataset.</p>
+		<p><img alt="" src="images/tuto/panel3.png" /></p>
+		<p> So far, the main canvas still only displays the anatomical T1. Let's position a ROI in the PCC (click once on the
+		sagital plane from the top left 2D windows). Next, hit the box icon to create the ROI. </p>
+		<p><img alt="" src="images/tuto/2d4.png" /> <img alt="" src="images/tuto/box5.png" /></p>
+		<p>We are now ready to perform real-time rs-fMRI connectivity. Simply click the "start" button. Correlations should appear in the main canvas window.</p>
+		<p><img alt="" src="images/tuto/start6.png" /><img alt="" width="30%" src="images/tuto/3d7.png" /></p>
+		Feel free to drag the ROI around (hold right click) and explore the brain's connectivity. Once you are satisfied with the current view,</br >
+		you can export and save the desired network to a .nii file by hitting the "generate map" button.</p> 
+		<p><img alt="" src="images/tuto/map8.png" /></p>
+		<p>A new anatomy has been added to the list of current datasets. To put it on top of the T1, simply go back to the properties tab </br> by clicking on the navigation arrows (middle of the screen).
+		Move the network on top of the T1 and voilà!</p>
+		<p><img alt="" width="30%" src="images/tuto/map9.png" /></p>
+		</center>
 		
 		<!-- Client pickup line -->
 		<h2 class="grid_12 caption">Like this project? <a href="contact.html"><span>Get in touch!</span></a></h2>

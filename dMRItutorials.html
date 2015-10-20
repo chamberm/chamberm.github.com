@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Maxime Chamberland | Tutorials</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/styles.css" />
+	
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.roundabout-1.0.min.js"></script> 
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.roundabout-shapes-1.1.js"></script>
+	<script type="text/javascript">			
+		$(document).ready(function() { //Start up our Project Preview Carosuel
+			$('ul#folio_scroller').roundabout({
+				easing: 'easeOutInCirc',
+				shape: 'waterWheel',
+				duration: 600
+			});
+		});
+	</script>  
+	<!--[if IE 6]>
+	<script src="js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script>
+	  /* EXAMPLE */
+	  DD_belatedPNG.fix('.button');
+	  
+	  /* string argument can be any CSS selector */
+	  /* .png_bg example is unnecessary */
+	  /* change it to what suits you! */
+	</script>
+	<![endif]-->
+</head>
+
+<body>
+
+	<div id="wrapper" class="container_12 clearfix">
+
+		<!-- Text Logo -->
+		<h1 id="logo" class="grid_4">Fibernavigator</h1>
+		
+		<!-- Navigation Menu -->
+		<ul id="navigation" class="grid_8">
+			<li><a href="contact.html"><span class="meta">Curriculum vitae</span><br />About Me</a></li>
+			<li><a href="media.html"><span class="meta">Images & videos</span><br />Media</a></li>
+			<li><a href="teaching.html"><span class="meta">Teaching</span><br />IMN638</a></li>
+			<li><a href="research.html"><span class="meta">Publications</span><br />Research</a></li>
+			<li><a href="index.html"><span class="meta">Homepage</span><br />Home</a></li>
+		</ul>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+			
+		<!-- Catch Line and Link -->
+			<h2 class="grid_12 caption clearfix">Real-time multi-peak tractography</h2>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+		<center>
+		<p>For this tutorial, you will need to download this example <a href="https://www.dropbox.com/s/ncfwpr6z8no5c3b/tractography.zip?dl=0" style="color:red">dataset</a>. 
+		First, let's open the following anatomical images: T1.nii.gz, FA.nii.gz, Cortex.nii.gz and Mask.nii.gz. <br /> The scene should display something like this (tip: Hit the "S" key for a perfect superior view).</p>
+		<p><img alt="" src="images/tuto/open1.png" /><img alt="" width="50%" src="images/tuto/anatomies.png" /></p>
+		
+		<p>You can move the order of the anatomies by using the up and down arrow buttons located in the Properties panel. Double click on the eyes icon next to each anatomy to quickly show/hide it. In another tutorial, we will show how to generate volumes and change colormaps to achieve such visualization:
+		<p><img alt="" width="30%" src="images/tuto/visu.png" /></p>
+		
+		<p>Ok, now let's dive into real-time tractography. First step will be to load the Peaks.nii.gz (The Fibernavigator supports 3 or 5 peaks per voxel). However, we highly recommend to hide turn OFF slice display (e.g. let's say Axial and Sagittal using the top left icons). You should now have a 
+		scene with peaks at every voxel (some of them might intersect with the anatomies. For closer inspection, just hide the anatomies using the eyes icons, as mentioned earlier. Position your crosshair approximately in the body of the corpus callosum. (Note: you can scale the
+		peaks in their Properties panel).</p>
+		<p><img alt="" width="60%" src="images/tuto/peaks.png" /><img alt="" width="60%" src="images/tuto/seedroi.png" /></p>
+		
+		<p>Now, click on the HARDI tracking panel, located right next of the Properties panel. A multitude of tracking options now awaits you. We will first select the 2 major datasets needed in order to perform real-time tractography. 
+		To do so, click once on the Peaks.nii.gz in the left list, and then click on the red button "Peaks not selected". The peaks should now automatically disappear and a tiny purple box should now appear in the scene (exactly were the 3 planes were intersecting).
+		Repeat the same for the tracking mask by selecting the FA.nii.gz (you can use the White matter and Cortex masks upon completion of this tutorial). A final click on the "Start tracking" button should now start real-time tractography.</p>
+		<p><img alt="" width="30%" src="images/tuto/fibers2.png" /><img alt="" width="40%" src="images/tuto/cc.png" /><img alt="" width="30%" src="images/tuto/cg.png" /></p>
+		
+		<p>Feel free to right click on the box and drag it around. At first, it might be challenging to find the box because of overlapping streamlines. A tip here is to decrease the opacity of the streamlines (use the opacity slider). You now have access 
+		to a multitude of parameters to be tuned interactively, while seeing the effect on the tract of interest. Here is a brief description for each option:</p>
+		
+		<ul>
+			<li><b>GM not selected:</b> Cortex or GM mask (Streamlines entering this mask will encounter a stopping criterion: a certain amount of steps until they terminate.</li>
+			<li><b>Seed not selected:</b> Alternative seed method (instead of the purple-ROI). It can be a WM/GM interface for example. This will launch seeds at every voxel.</li>
+			<li><b>Shell not selected:</b> Alternative seed method using a mesh (e.g. it can launch seeds at every vertex of an isosurface).</li>
+			<li><b>NOT not selected:</b> Region to exclude streamlines. (e.g. CSF map, exclusion plane, etc).</li>
+			<li><b>AND not selected:</b> Region to include streamlines (e.g. drawing a target ROI).</li>
+			<li><b>Randomly spaced seeds:</b> Seeds will either be randomly placed inside the purple-ROI, or evenly-spaced (artefacts can occur with a low amount of seeds).</li>
+			<li><b>Initial direction:</b> Choose which direction to prioritize when initiating seeds.</li>
+			<li><b>Minimum mask:</b> minimum value to propagate inside the mask (e.g. FA, WM probability map, etc).</li>
+			<li><b>Maximum angle:</b> maximum angle between 2 steps.</li>
+			<li><b>Step size:</b> Step size, in mm.</li>
+			<li><b>g (weight):</b> Smooth term between the IN and OUT directions at every step.</li>
+			<li><b>GM steps:</b> number of steps allowed inside the GM mask, if specified.</li>
+			<li><b>Minimum length:</b> streamline minimum length.</li>
+			<li><b>Maximum length:</b> streamline maximum length.</li>
+			<li><b>Seeds:</b> Number of seeds PER AXIS of the seed region. For example: 10 will result in 10 x 10 x 10 seeds.</li>
+			<li><b>Number of seeds:</b> total amount of seeds currently used (is using a seed map, it will display the amount of non-zero voxels).</li>
+			<li><b>Opacity slider:</b> change streamline opacity (note: streamlines segments are not sorted here, it is solely for visualization purposes).</li>
+			<li><b>Regular alpha:</b> change between flashy and regular alpha function.</li>
+			<li><b>Enable rs-connectivity:</b> If an fMRI scan was supplied in the rs-connectivity panel, this allows to generate functional connectivity based on the end points of streamlines.</li>
+			<li><b>Export fibers to scene object:</b> save current real-time tracked streamlines to the left menu. Can then be exported to disk.</li>		
+		</ul>
+		
+		<p>Play around with the tool, many combination are possible (use the drawer tool to draw an inclusion/exclusion region, or even use it as a seed region. Try changing the seed-ROI dimensions to fit your needs (Hold Ctrl+Right click on the side of the ROI), switch between randomly and evenly spaced seeds, etc. 
+	    Exploring these possibilities is a key-factor when performing tractography. If you are using an FA mask, try decreasing the threshold from 0.2 to 0.1 and observe the effect on the current tract.</p>
+		
+		<p><img alt="" width="70%" src="images/tuto/fxfa.png" /></p>
+		
+		<p>Once you are satisfied with the current tract, hit the Export fibers to scene object button. This will generate a static set of streamlines in the left menu list. From there on, many properties are available such as subsampling and coloring options. Also keep in mind that 
+        further dissection can be perform using and / not boxes (e.g. in the case where spurious streamlines were spanned using real-time tractography). If you want to save your streamlines on your computer, select the appropriate dataset from the list, then go to "File/Save selected fibers". 
+        The default file format is .VTK (binary). If you re-open your streamlines, don't be surprised to see that they are not aligned with the current anatomies. This is because they now reside in World Space. A simple click on the "Fit to Anatomy" button will repositionate them appropriately.
+	    </p>
+		
+		<p><img alt="" width="30%" src="images/tuto/unaligned.png" /><img alt="" width="30%" src="images/tuto/aligned.png" /></p>
+		
+		<p><i>Note: The windows version is compiled as a 32-bit project. Memory problems can occur while performing whole-brain real-time tractography (i.e. using WM mask as seed region, for example). Linux and MAC version are better suited. 
+		Moreover, for ultimate performances, we highly recommend to hide peaks datasets (or turn slice display off) when navigating.</i></p>
+
+		
+		</center>
+		
+		<!-- Client pickup line -->
+		<h2 class="grid_12 caption">Like this project? <a href="contact.html"><span>Get in touch!</span></a></h2>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+		
+		<!-- Footer -->
+		<p class="grid_12 footer clearfix">
+			<span class="float"><b>Maxime Chamberland</b> - Université de Sherbrooke</span>
+			<a class="float right" href="#">Back to top</a>
+		</p>
+		
+	</div><!--end wrapper-->
+
+</body>
+</html>
