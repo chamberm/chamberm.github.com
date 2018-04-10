@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Maxime Chamberland | Fibernavigator</title>
+	<title>Maxime Chamberland | Tutorials</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	
 	<!-- Stylesheets -->
@@ -54,40 +54,28 @@
 		<div class="hr grid_12 clearfix">&nbsp;</div>
 			
 		<!-- Catch Line and Link -->
-			<h2 class="grid_12 caption clearfix">Visualization software</h2>
+			<h2 class="grid_12 caption clearfix">File formats</h2>
 		
 		<div class="hr grid_12 clearfix">&nbsp;</div>
+		<ul><b>Nifti Anatomies (*.nii | *.nii.gz)</b><br>
+		<li>Has to be either FLOAT32, INT16 or short int (e.g., scalar maps such as T1, T2, FA, fMRI activations, etc. <br>[X Y Z 1] or [X Y Z 3] for RGB maps where 3 represents the main tensor direction stored in a 256 color basis).</li>
+		<li>Note that the FiberNavigator doesn't takes into account the affine part of the matrix.</li>
+		</ul>
 		
-		<!-- Column 1 / Project Information -->
-		<div class="grid_4">
-		<a class="meta" href="https://github.com/chamberm/fibernavigator">github.com/chamberm/fibernavigator</a>
-		<h4 class="title">Fibernavigator</h4>
-		<div class="hr dotted clearfix">&nbsp;</div>
-			<p>This project is dedicated to the development of fast and versatile visualization of <strong>tractography</strong>, including effective selection of fibres, surface texturing, real-time tractography and connectomics.</p>	
-			<p class="clearfix">
-				<a href="index.html" class="button float">&lt;&lt; Back to Homepage</a>
-				<a href="https://github.com/chamberm/fibernavigator" class="button float right">Project site</a>
-			</p>
-			<p><b>Make sure to watch the video below:</b></p>
-			<p class="clearfix">
-			<a class="portfolio_item float alpha" href="https://www.youtube.com/watch?v=A3KCekqPTok">
-					<span>Visualization DEMO</span>
-					<img class="" src="images/fnav_p.png"  alt=""/>
-				</a>
-				<a href="formats.html" class="button float">1) File formats</a>
-			    <a href="dMRItutorials.html" class="button float">2) Real-time Tractography</a>
-			</p>
-		</div>
+		<ul><b>Glyphs (*.nii | *.nii.gz)</b></br>
+		<li>Tensors [X Y Z 6]  where the order of symmetric tensor terms is xx, xy, xz, yy, yz, zz.</li>
+		<li>ODFs (MRtrix basis, or DIPY basis). For example, a [X Y Z 45] file where 45 is the SH coefficients of order 8.</li>
+		<li>Peaks (extracted from fODFs) [X Y Z 9] where 9 here indicates 3 main peaks, each having xyz coordinates.</li>
+		</ul>
 		
-		<!-- Column 2 / Image Carosuel -->
-		<div id="folio_scroller_container" class="grid_8 cleafix">
-			<ul id="folio_scroller"> 
-					<li><span>Homepage</span><a href="https://github.com/chamberm/fibernavigator"><img alt="" src="images/600fiber.png" /></a></li> 
-			</ul> 
-		</div>
+		<ul><b>Streamlines </b>
+		<li>*.tck from MRtrix (world space coordinates, RAS+ mm) </li>
+		<li>*.trk from TrackVis (convention varies, simple double check that they fit with the anatomy)</li>
+		<li>*.fib (Fibernavigator format, a simple binary VTK file with points in image space, voxel mm)</li>
+		<li>*.vtk (same as above, but world coords)</li>
+		</ul>
 		
-		<div class="hr grid_12 clearfix">&nbsp;</div>
-		
+			
 		<!-- Client pickup line -->
 		<h2 class="grid_12 caption">Like this project? <a href="contact.html"><span>Get in touch!</span></a></h2>
 		

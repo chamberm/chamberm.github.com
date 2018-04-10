@@ -59,18 +59,18 @@
 		<div class="hr grid_12 clearfix">&nbsp;</div>
 		<center>
 		<p>For this tutorial, you will need to download this example <a href="https://www.dropbox.com/s/ncfwpr6z8no5c3b/tractography.zip?dl=0" style="color:red">dataset</a>. (You can also look at this other <a href="https://www.youtube.com/watch?v=UDFpvyrXNyA">video tutorial</a>)
-		First, let's open the following anatomical images: T1.nii.gz, FA.nii.gz, Cortex.nii.gz and Mask.nii.gz. <br /> The scene should display something like this (tip: Hit the "S" key for a perfect superior view).</p>
+		First, let's open the following anatomical images: FA.nii.gz, Cortex.nii.gz and Mask.nii.gz. <br /> The scene should display something like this (tip: Hit the "S" key for a perfect superior view).</p>
 		<p><img alt="" src="images/tuto/open1.png" /><img alt="" width="50%" src="images/tuto/anatomies.png" /></p>
 		
 		<p>You can move the order of the anatomies by using the up and down arrow buttons located in the Properties panel. Double click on the eyes icon next to each anatomy to quickly show/hide it. In another tutorial, we will show how to generate volumes and change colormaps to achieve such visualization:
 		<p><img alt="" width="30%" src="images/tuto/visu.png" /></p>
 		
-		<p>Ok, now let's dive into real-time tractography. First step will be to load the Peaks.nii.gz (The Fibernavigator supports 3 or 5 peaks per voxel). However, we highly recommend to hide turn OFF slice display (e.g. let's say Axial and Sagittal using the top left icons). You should now have a 
+		<p>Ok, now let's dive into real-time tractography. First step will be to load the Peaks.nii.gz (The Fibernavigator supports 3 or 5 peaks per voxel). However, we highly recommend to hide turn OFF slice display (e.g., let's say Axial and Sagittal using the top left icons). You should now have a 
 		scene with peaks at every voxel (some of them might intersect with the anatomies. For closer inspection, just hide the anatomies using the eyes icons, as mentioned earlier. Position your crosshair approximately in the body of the corpus callosum. (Note: you can scale the
 		peaks in their Properties panel).</p>
 		<p><img alt="" width="60%" src="images/tuto/peaks.png" /><img alt="" width="60%" src="images/tuto/seedroi.png" /></p>
 		
-		<p>Now, click on the HARDI tracking panel, located right next of the Properties panel. A multitude of tracking options now awaits you. We will first select the 2 major datasets needed in order to perform real-time tractography. 
+		<p>Now, click on the Real-time tractograph panel, located right next of the Properties panel. A multitude of tracking options now awaits you. We will first select the 2 major datasets needed in order to perform real-time tractography. 
 		To do so, click once on the Peaks.nii.gz in the left list, and then click on the red button "Peaks not selected". The peaks should now automatically disappear and a tiny purple box should now appear in the scene (exactly were the 3 planes were intersecting).
 		Repeat the same for the tracking mask by selecting the FA.nii.gz (you can use the White matter and Cortex masks upon completion of this tutorial). A final click on the "Start tracking" button should now start real-time tractography.</p>
 		<p><img alt="" width="30%" src="images/tuto/fibers2.png" /><img alt="" width="40%" src="images/tuto/cc.png" /><img alt="" width="30%" src="images/tuto/cg.png" /></p>
@@ -97,7 +97,6 @@
 			<li><b>Number of seeds:</b> total amount of seeds currently used (is using a seed map, it will display the amount of non-zero voxels).</li>
 			<li><b>Opacity slider:</b> change streamline opacity (note: streamlines segments are not sorted here, it is solely for visualization purposes).</li>
 			<li><b>Regular alpha:</b> change between flashy and regular alpha function.</li>
-			<li><b>Enable rs-connectivity:</b> If an fMRI scan was supplied in the rs-connectivity panel, this allows to generate functional connectivity based on the end points of streamlines.</li>
 			<li><b>Export fibers to scene object:</b> save current real-time tracked streamlines to the left menu. Can then be exported to disk.</li>		
 		</ul>
 		
@@ -107,15 +106,12 @@
 		<p><img alt="" width="70%" src="images/tuto/fxfa.png" /></p>
 		
 		<p>Once you are satisfied with the current tract, hit the Export fibers to scene object button. This will generate a static set of streamlines in the left menu list. From there on, many properties are available such as subsampling and coloring options. Also keep in mind that 
-        further dissection can be perform using and / not boxes (e.g. in the case where spurious streamlines were spanned using real-time tractography). If you want to save your streamlines on your computer, select the appropriate dataset from the list, then go to "File/Save selected fibers". 
-        The default file format is .VTK (binary). If you re-open your streamlines, don't be surprised to see that they are not aligned with the current anatomies. This is because they now reside in World Space. A simple click on the "Fit to Anatomy" button will repositionate them appropriately.
+        further dissection can be performed using and / not boxes (e.g. in the case where spurious streamlines were spanned using real-time tractography). If you want to save your streamlines on your computer, select the appropriate dataset from the list, then go to "File/Save selected fibers". 
+        Choose between .fib, .vtk or .tck formats. (Note: when you re-open your .vtk streamlines, don't be surprised if they are not aligned with the current anatomies. This is because they now reside in World Space. A simple click on the "Fit to Anatomy" button will repositionate them appropriately.)
 	    </p>
 		
 		<p><img alt="" width="30%" src="images/tuto/unaligned.png" /><img alt="" width="30%" src="images/tuto/aligned.png" /></p>
 		
-		<p><i>Note: The windows version is compiled as a 32-bit project. Memory problems can occur while performing whole-brain real-time tractography (i.e. using WM mask as seed region, for example). Linux and MAC version are better suited. 
-		Moreover, for ultimate performances, we highly recommend to hide peaks datasets (or turn slice display off) when navigating.</i></p>
-
 		
 		</center>
 		
@@ -126,7 +122,7 @@
 		
 		<!-- Footer -->
 		<p class="grid_12 footer clearfix">
-			<span class="float"><b>Maxime Chamberland</b> - Université de Sherbrooke</span>
+			<span class="float"><b>Maxime Chamberland</b></span>
 			<a class="float right" href="#">Back to top</a>
 		</p>
 		
