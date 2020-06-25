@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Chamberland</title>
+    <link>https://chamberm.github.io/author/maxime-chamberland/</link>
+      <atom:link href="https://chamberm.github.io/author/maxime-chamberland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxime Chamberland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chamberm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Maxime Chamberland</title>
+      <link>https://chamberm.github.io/author/maxime-chamberland/</link>
+    </image>
+    
+    <item>
+      <title>Tractometry-based Anomaly Detection for Single-subject White Matter Analysis</title>
+      <link>https://chamberm.github.io/publication/chamberland-2020-tractometry/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2020-tractometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal principal component analysis to identify major features of white matter structure and links to reading</title>
+      <link>https://chamberm.github.io/publication/geeraert-2020-multimodal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/geeraert-2020-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction of Diffusion MRI Measures for Improved Tractometry of the Human Brain</title>
+      <link>https://chamberm.github.io/publication/chamberland-2019-dimensionality/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2019-dimensionality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing variability in along-tract analysis with diffusion profile realignment</title>
+      <link>https://chamberm.github.io/publication/st-2019-reducing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/st-2019-reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping population-based structural connectomes</title>
+      <link>https://chamberm.github.io/publication/zhang-2018-mapping/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/zhang-2018-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obtaining representative core streamlines for white matter tractometry of the human brain</title>
+      <link>https://chamberm.github.io/publication/chamberland-2018-obtaining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2018-obtaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement d&#39;outils neuroinformatiques spécialisés pour améliorer l&#39;analyse individuelle en médecine personnalisée</title>
+      <link>https://chamberm.github.io/publication/chamberland-2017-thesis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2017-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive computation and visualization of structural connectomes in real-time</title>
+      <link>https://chamberm.github.io/publication/chamberland-2017-interactive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2017-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The challenge of mapping the human connectome based on diffusion tractography</title>
+      <link>https://chamberm.github.io/publication/maier-2017-challenge/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/maier-2017-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using fMRI non-local means denoising to uncover activation in sub-cortical structures at 1.5 T for guided HARDI tractography</title>
+      <link>https://chamberm.github.io/publication/bernier-2014-using/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/bernier-2014-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation en imagerie par résonance magnétique de diffusion : Tractographie en temps réel des fibres de la matière blanche du cerveau</title>
+      <link>https://chamberm.github.io/publication/chamberland-2013-visualisation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2013-visualisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

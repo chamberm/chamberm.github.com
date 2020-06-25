@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Descoteaux | Maxime Chamberland</title>
+    <link>https://chamberm.github.io/author/m-descoteaux/</link>
+      <atom:link href="https://chamberm.github.io/author/m-descoteaux/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Descoteaux</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chamberm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M Descoteaux</title>
+      <link>https://chamberm.github.io/author/m-descoteaux/</link>
+    </image>
+    
+    <item>
+      <title>Visualization of Diffusion Propagator and Multiple Parameter Diffusion Signal</title>
+      <link>https://chamberm.github.io/publication/vaillancourt-2015-visualization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/vaillancourt-2015-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurosurgical tracking at the sherbrooke connectivity imaging lab (SCIL)</title>
+      <link>https://chamberm.github.io/publication/girard-2012-neurosurgical/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/girard-2012-neurosurgical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

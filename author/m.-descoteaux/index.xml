@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Descoteaux | Maxime Chamberland</title>
+    <link>https://chamberm.github.io/author/m.-descoteaux/</link>
+      <atom:link href="https://chamberm.github.io/author/m.-descoteaux/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Descoteaux</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chamberm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Descoteaux</title>
+      <link>https://chamberm.github.io/author/m.-descoteaux/</link>
+    </image>
+    
+    <item>
+      <title>On the Origin of Individual Functional Connectivity Variability: The Role of White Matter Architecture</title>
+      <link>https://chamberm.github.io/publication/chamberland-2017-origin/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2017-origin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active delineation of Meyer&#39;s loop using oriented priors through MAGNEtic tractography (MAGNET)</title>
+      <link>https://chamberm.github.io/publication/chamberland-2017-active/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2017-active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D interactive tractography-informed resting-state fMRI connectivity</title>
+      <link>https://chamberm.github.io/publication/chamberland-20153-d/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-20153-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing More by Showing Less: Orientation-Dependent Transparency Rendering for Fiber Tractography Visualization</title>
+      <link>https://chamberm.github.io/publication/tax-2015-seeing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/tax-2015-seeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time multi-peak tractography for instantaneous connectivity display</title>
+      <link>https://chamberm.github.io/publication/chamberland-2014-real/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2014-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative patch-based super-resolution for diffusion-weighted images</title>
+      <link>https://chamberm.github.io/publication/coupe-2013-collaborative/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/coupe-2013-collaborative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

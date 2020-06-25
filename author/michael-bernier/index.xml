@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michaël Bernier | Maxime Chamberland</title>
+    <link>https://chamberm.github.io/author/michael-bernier/</link>
+      <atom:link href="https://chamberm.github.io/author/michael-bernier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michaël Bernier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chamberm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michaël Bernier</title>
+      <link>https://chamberm.github.io/author/michael-bernier/</link>
+    </image>
+    
+    <item>
+      <title>Using fMRI non-local means denoising to uncover activation in sub-cortical structures at 1.5 T for guided HARDI tractography</title>
+      <link>https://chamberm.github.io/publication/bernier-2014-using/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/bernier-2014-using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Leemans | Maxime Chamberland</title>
+    <link>https://chamberm.github.io/author/a.-leemans/</link>
+      <atom:link href="https://chamberm.github.io/author/a.-leemans/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Leemans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chamberm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Leemans</title>
+      <link>https://chamberm.github.io/author/a.-leemans/</link>
+    </image>
+    
+    <item>
+      <title>Seeing More by Showing Less: Orientation-Dependent Transparency Rendering for Fiber Tractography Visualization</title>
+      <link>https://chamberm.github.io/publication/tax-2015-seeing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/tax-2015-seeing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

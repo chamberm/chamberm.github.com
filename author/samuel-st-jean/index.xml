@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel St-Jean | Maxime Chamberland</title>
+    <link>https://chamberm.github.io/author/samuel-st-jean/</link>
+      <atom:link href="https://chamberm.github.io/author/samuel-st-jean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel St-Jean</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chamberm.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Samuel St-Jean</title>
+      <link>https://chamberm.github.io/author/samuel-st-jean/</link>
+    </image>
+    
+    <item>
+      <title>Reducing variability in along-tract analysis with diffusion profile realignment</title>
+      <link>https://chamberm.github.io/publication/st-2019-reducing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/st-2019-reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obtaining representative core streamlines for white matter tractometry of the human brain</title>
+      <link>https://chamberm.github.io/publication/chamberland-2018-obtaining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2018-obtaining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
