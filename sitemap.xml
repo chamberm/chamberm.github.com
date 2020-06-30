@@ -23,67 +23,17 @@
   </url>
   
   <url>
-    <loc>https://chamberm.github.io/publication-type/2/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/authors/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/author/c.-m.-w.-tax/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/author/d.-k.-jones/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/author/e.-p.-raven/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/author/g.-d.-parker/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication/genc-2020-impact/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/author/m.-chamberland/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication_types/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/author/s.-genc/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chamberm.github.io/publication-type/1/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chamberm.github.io/author/adam-cunningham/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/authors/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,6 +73,16 @@
   </url>
   
   <url>
+    <loc>https://chamberm.github.io/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chamberm.github.io/author/sila-genc/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -130,6 +90,46 @@
   <url>
     <loc>https://chamberm.github.io/publication/chamberland-2020-tractometry/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication-type/2/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/c.-m.-w.-tax/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/d.-k.-jones/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/e.-p.-raven/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/g.-d.-parker/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication/genc-2020-impact/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/m.-chamberland/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/s.-genc/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -370,6 +370,11 @@
   <url>
     <loc>https://chamberm.github.io/author/zhengwu-zhang/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/talk/cobcom2017/</loc>
+    <lastmod>2017-11-20T16:30:00+00:00</lastmod>
   </url>
   
   <url>

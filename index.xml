@@ -34,18 +34,18 @@
     </item>
     
     <item>
-      <title>Impact of b-value on estimates of apparent fibre density</title>
-      <link>https://chamberm.github.io/publication/genc-2020-impact/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://chamberm.github.io/publication/genc-2020-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tractometry-based Anomaly Detection for Single-subject White Matter Analysis</title>
       <link>https://chamberm.github.io/publication/chamberland-2020-tractometry/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://chamberm.github.io/publication/chamberland-2020-tractometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of b-value on estimates of apparent fibre density</title>
+      <link>https://chamberm.github.io/publication/genc-2020-impact/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/genc-2020-impact/</guid>
       <description></description>
     </item>
     
@@ -122,6 +122,17 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://chamberm.github.io/publication/chamberland-2018-obtaining/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>COBCOM2017</title>
+      <link>https://chamberm.github.io/talk/cobcom2017/</link>
+      <pubDate>Mon, 20 Nov 2017 16:30:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/talk/cobcom2017/</guid>
+      <description>&lt;p&gt;You can find the YouTube presentation 
+&lt;a href=&#34;https://project.inria.fr/cobcom2017/files/2017/12/cobcom2017-chamberland.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and the conference website 
+&lt;a href=&#34;https://project.inria.fr/cobcom2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
