@@ -5,12 +5,38 @@
     <link>https://chamberm.github.io/</link>
       <atom:link href="https://chamberm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maxime Chamberland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 13:45:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 13:10:00 +0000</lastBuildDate>
     <image>
       <url>https://chamberm.github.io/images/icon_hude859d5346c26fa058545eee2795b53d_1389030_512x512_fill_lanczos_center_2.png</url>
       <title>Maxime Chamberland</title>
       <link>https://chamberm.github.io/</link>
     </image>
+    
+    <item>
+      <title>CDMRI2020</title>
+      <link>https://chamberm.github.io/talk/cdmri2020/</link>
+      <pubDate>Thu, 08 Oct 2020 13:10:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/talk/cdmri2020/</guid>
+      <description>&lt;p&gt;Link 
+&lt;a href=&#34;https://www.researchgate.net/publication/344378484_Beyond_lesion-load_Tractometry-based_metrics_for_characterizing_white_matter_lesions_within_fibre_pathways&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond lesion-load: Tractometry-based metrics for characterizing white matter lesions within fibre pathways</title>
+      <link>https://chamberm.github.io/publication/chamberland-2020-lesionometry/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2020-lesionometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing and visualising intra-voxel orientation-specific relaxation-diffusion features in the human brain</title>
+      <link>https://chamberm.github.io/publication/martins-2020-hbm/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/martins-2020-hbm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ISMRM2020</title>

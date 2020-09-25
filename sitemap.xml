@@ -3,17 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chamberm.github.io/talk/ismrm2020/</loc>
-    <lastmod>2020-08-10T13:45:00+00:00</lastmod>
+    <loc>https://chamberm.github.io/talk/cdmri2020/</loc>
+    <lastmod>2020-10-08T13:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chamberm.github.io/</loc>
-    <lastmod>2020-08-10T13:45:00+00:00</lastmod>
+    <lastmod>2020-10-08T13:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://chamberm.github.io/talk/</loc>
+    <lastmod>2020-10-08T13:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication-type/6/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/authors/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication/chamberland-2020-lesionometry/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/derek-k-jones/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/emma-c.-tallantyre/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/maxime-chamberland/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/mia-winter/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication_types/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/thomas-brice/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication-type/2/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/chamberland-maxime/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/publication/martins-2020-hbm/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/reymbaut-alexis/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/szczepankiewicz-filip/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/topgaard-daniel/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/talk/ismrm2020/</loc>
     <lastmod>2020-08-10T13:45:00+00:00</lastmod>
   </url>
   
@@ -29,11 +114,6 @@
   
   <url>
     <loc>https://chamberm.github.io/author/adam-cunningham/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/authors/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,21 +148,6 @@
   </url>
   
   <url>
-    <loc>https://chamberm.github.io/author/maxime-chamberland/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication_types/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chamberm.github.io/author/sila-genc/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -90,11 +155,6 @@
   <url>
     <loc>https://chamberm.github.io/publication/chamberland-2020-tractometry/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication-type/2/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -228,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://chamberm.github.io/author/derek-k-jones/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chamberm.github.io/publication/chamberland-2019-dimensionality/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -320,11 +375,6 @@
   <url>
     <loc>https://chamberm.github.io/author/yurui-gao/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/publication-type/6/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -682,11 +732,23 @@
   </url>
   
   <url>
+    <loc>https://chamberm.github.io/author/de-almeida-martins-j.p./</loc>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/jones-derek-k./</loc>
+  </url>
+  
+  <url>
     <loc>https://chamberm.github.io/author/maxime-chamberland/</loc>
   </url>
   
   <url>
     <loc>https://chamberm.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/author/tax-c.-m.-w./</loc>
   </url>
   
 </urlset>

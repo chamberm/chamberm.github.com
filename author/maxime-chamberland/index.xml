@@ -5,12 +5,20 @@
     <link>https://chamberm.github.io/author/maxime-chamberland/</link>
       <atom:link href="https://chamberm.github.io/author/maxime-chamberland/index.xml" rel="self" type="application/rss+xml" />
     <description>Maxime Chamberland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chamberm.github.io/images/icon_hude859d5346c26fa058545eee2795b53d_1389030_512x512_fill_lanczos_center_2.png</url>
       <title>Maxime Chamberland</title>
       <link>https://chamberm.github.io/author/maxime-chamberland/</link>
     </image>
+    
+    <item>
+      <title>Beyond lesion-load: Tractometry-based metrics for characterizing white matter lesions within fibre pathways</title>
+      <link>https://chamberm.github.io/publication/chamberland-2020-lesionometry/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2020-lesionometry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tractometry-based Anomaly Detection for Single-subject White Matter Analysis</title>
