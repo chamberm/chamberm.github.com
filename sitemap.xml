@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chamberm.github.io/tag/detect/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/project/detect/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/tag/lesionometry/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/project/lesionometry/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/project/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chamberm.github.io/tags/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chamberm.github.io/publication-type/2/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
@@ -69,11 +104,6 @@
   
   <url>
     <loc>https://chamberm.github.io/author/maxime-chamberland/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -644,16 +674,6 @@
   
   <url>
     <loc>https://chamberm.github.io/project/fibernavigator/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chamberm.github.io/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,28 @@
     <link>https://chamberm.github.io/</link>
       <atom:link href="https://chamberm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maxime Chamberland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chamberm.github.io/images/icon_hude859d5346c26fa058545eee2795b53d_1389030_512x512_fill_lanczos_center_2.png</url>
       <title>Maxime Chamberland</title>
       <link>https://chamberm.github.io/</link>
     </image>
+    
+    <item>
+      <title>Detect</title>
+      <link>https://chamberm.github.io/project/detect/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/project/detect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesionometry</title>
+      <link>https://chamberm.github.io/project/lesionometry/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/project/lesionometry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MICRA: Microstructural Image Compilation with Repeated Acquisitions</title>
