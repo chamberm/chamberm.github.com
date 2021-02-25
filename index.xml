@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Detect</title>
-      <link>https://chamberm.github.io/project/detect/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://chamberm.github.io/project/detect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lesionometry</title>
       <link>https://chamberm.github.io/project/lesionometry/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
@@ -106,6 +98,14 @@
       <description>&lt;p&gt;Link to journal version 
 &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24964&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Detect</title>
+      <link>https://chamberm.github.io/project/detect/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/project/detect/</guid>
+      <description></description>
     </item>
     
     <item>

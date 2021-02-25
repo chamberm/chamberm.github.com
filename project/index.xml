@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Detect</title>
-      <link>https://chamberm.github.io/project/detect/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://chamberm.github.io/project/detect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lesionometry</title>
       <link>https://chamberm.github.io/project/lesionometry/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://chamberm.github.io/project/lesionometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detect</title>
+      <link>https://chamberm.github.io/project/detect/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/project/detect/</guid>
       <description></description>
     </item>
     
