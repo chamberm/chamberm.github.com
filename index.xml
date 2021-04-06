@@ -5,12 +5,30 @@
     <link>https://chamberm.github.io/</link>
       <atom:link href="https://chamberm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maxime Chamberland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chamberm.github.io/images/icon_hude859d5346c26fa058545eee2795b53d_1389030_512x512_fill_lanczos_center_2.png</url>
       <title>Maxime Chamberland</title>
       <link>https://chamberm.github.io/</link>
     </image>
+    
+    <item>
+      <title>Tract-specific MRI measures explain learning and recall differences in multiple sclerosis</title>
+      <link>https://chamberm.github.io/publication/chamberland-2021-lesionometry/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/chamberland-2021-lesionometry/</guid>
+      <description>&lt;p&gt;Link to 
+&lt;a href=&#34;https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcab065/6207986&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lesionometry</title>
+      <link>https://chamberm.github.io/project/lesionometry/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/project/lesionometry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting microstructural deviations in individuals with deep diffusion MRI tractometry</title>
@@ -20,14 +38,6 @@
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2021.02.23.21252011v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Lesionometry</title>
-      <link>https://chamberm.github.io/project/lesionometry/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://chamberm.github.io/project/lesionometry/</guid>
-      <description></description>
     </item>
     
     <item>
