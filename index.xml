@@ -5,12 +5,21 @@
     <link>https://chamberm.github.io/</link>
       <atom:link href="https://chamberm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maxime Chamberland</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 13:10:00 +0000</lastBuildDate>
     <image>
       <url>https://chamberm.github.io/images/icon_hude859d5346c26fa058545eee2795b53d_1389030_512x512_fill_lanczos_center_2.png</url>
       <title>Maxime Chamberland</title>
       <link>https://chamberm.github.io/</link>
     </image>
+    
+    <item>
+      <title>OHBM2021</title>
+      <link>https://chamberm.github.io/talk/ohbm2021/</link>
+      <pubDate>Wed, 02 Jun 2021 13:10:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/talk/ohbm2021/</guid>
+      <description>&lt;p&gt;Link to appear here.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tract-specific MRI measures explain learning and recall differences in multiple sclerosis</title>
