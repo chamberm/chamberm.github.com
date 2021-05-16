@@ -5,12 +5,22 @@
     <link>https://chamberm.github.io/author/khalid-hamandi/</link>
       <atom:link href="https://chamberm.github.io/author/khalid-hamandi/index.xml" rel="self" type="application/rss+xml" />
     <description>Khalid Hamandi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chamberm.github.io/images/icon_hude859d5346c26fa058545eee2795b53d_1389030_512x512_fill_lanczos_center_2.png</url>
       <title>Khalid Hamandi</title>
       <link>https://chamberm.github.io/author/khalid-hamandi/</link>
     </image>
+    
+    <item>
+      <title>Short Association Fibre Tractography</title>
+      <link>https://chamberm.github.io/publication/shastin-2021-saf/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://chamberm.github.io/publication/shastin-2021-saf/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.05.07.443084v1.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Detecting microstructural deviations in individuals with deep diffusion MRI tractometry</title>
